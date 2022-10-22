@@ -10,7 +10,7 @@
 # Important!!!
 ### this is only for educational purpose. I do not have responsibility on whatever you do with my code.
 
-### This is for my eJPT preperation, This code is from iNE CyberSecurity/courses/5810c2ff/penetration-testing-preliminary-skills-programming.
+### This is for my eJPT preperation, This code is from iNE's Penetration Testing Preliminary Skills Programming course.
 
 # What does it cover?
 
