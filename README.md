@@ -15,7 +15,15 @@
 # What does it cover?
 
 ### C++
-- Information stealer
-- keylogger
+- Network Socket
+- C++ Standard Libraries
+- Information stealing
+- keylogging
 ### Python
+- Network Socket
+- Python Standard Libraries
+- Port Scanning
+- Backdoor
+- HTTP
+- Login Bruteforce
 ### Bash
